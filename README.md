@@ -1,3 +1,4 @@
+
 # Nykaa-Inspired Beauty Retail Analytics Dashboard
 
 **Status:** In Progress
@@ -21,3 +22,7 @@ a business intelligence dashboard.
 
 ## Data Source
 [Nykaa Popular Brands Cosmetics & Beauty Products — Kaggle](https://www.kaggle.com/datasets/jithinanievarghese/nykaa-popular-brands-cosmetics-beauty-products)
+=======
+# Nykaa-beauty-retail-analytics
+An end-to-end data analytics project analyzing beauty retail products, pricing, customer ratings, and business insights using SQL, Python, and Power BI.
+
